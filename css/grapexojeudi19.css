@@ -1,0 +1,54 @@
+
+ /*  ID id="mon_id"
+ #mon_id {}
+
+ CLASS  class="ma_classe"
+ .ma_classe {}
+ */
+
+ .haut-de-page {
+   background-color: gray;
+   height: 50px;
+ }
+
+.contact {
+  float: left;
+}
+.share {
+  float: right;
+}
+
+.haut-de-page ul {
+list-style-type: none;
+}
+.haut-de-page ul li {
+  float: left;
+}
+.bas_de-page
+{
+
+  height: 50px
+}
+
+.navigateur
+{
+float: right;
+  }
+.bas_de-page ul
+{
+
+  list-style-type: none
+
+}
+.bas_de-page ul li
+{
+    display: inline;
+}
+p{
+text-align: center;
+
+}
+img{
+margin-right: auto;
+
+}
